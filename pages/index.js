@@ -38,7 +38,7 @@ export default function Home({ allPostsData }) {
       </Head>      
       <section className={utilstyle.headingMd}>
         <p>
-          私は放射線技師です/AIの研究をしています/好きなことはプログラミングです
+          私は放射線技師です/好きなことはプログラミング/好きな言語はPythonとTypescriptです
         </p>
       </section>
 
